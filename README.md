@@ -10,4 +10,4 @@
     - email: luthandyka.business@gmail.com
     - linkedin: [luthandyka](https://www.linkedin.com/in/luthandyka/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love food, coding alone, beautiful scenery, high rise apartments and my two annoying cats 😾😾
+- ⚡ Fun fact: I love food, coding alone, beautiful scenery, high rise apartments with a city and sunset view, and my two annoying cats 😾😾
