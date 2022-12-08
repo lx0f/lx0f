@@ -1,13 +1,17 @@
-### Hi there 👋
+### Welcome to my profile! 🚀
 
-- 🔭 I’m currently working on web apps
-- 🌱 I’m currently learning ASP.NET & React.js
-- 👯 I’m looking to collaborate on .NET projects
-- 🤔 I’m looking for help with web design (I'm horrible)
-- 💬 Ask me about anything
-- 📫 How to reach me: 
-    - discord: Live Laugh Love#6700
-    - email: luthandyka.business@gmail.com
-    - linkedin: [luthandyka](https://www.linkedin.com/in/luthandyka/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love food, coding alone, beautiful scenery, high rise apartments with a city and sunset view, and my two annoying cats 😾😾
+Hi there! I'm a full-stack developer with experience in ASP.NET, Flask, Express.js,
+and React.js. I also love working with TailwindCSS and TypeScript. 🥵
+
+Currently, I am open to job opportunities! <!-- (and am particularly interested
+in relocating to New York!) -->If you're looking for a hard-working and dedicated
+developer, please don't hesitate to get in touch! 📩
+
+Thanks for visiting my profile. I hope you enjoy looking through my projects and
+contributions. 🙌
+
+- [LinkedIn profile] 💼
+- [Email me] 📨
+
+[LinkedIn profile]: https://www.linkedin.com/in/luthandyka/
+[Email me]: luthandyka.business@gmail.com
